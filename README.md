@@ -89,6 +89,7 @@ flutter run
 
 Import test ETH from a faucet and start interacting with the DApp.
 
+```
 
 ## 🖼️ Screenshots
 
