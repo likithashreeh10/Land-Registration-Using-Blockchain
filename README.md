@@ -94,23 +94,22 @@ Import test ETH from a faucet and start interacting with the DApp.
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](https://github.com/likithashreeh10/Land-Registration-Using-Blockchain/blob/main/screenshots/Homepage.jpg)
+![Homepage](Homepage.jpg)
 
 ### 🔐 Login Page
-![Login Page](https://github.com/likithashreeh10/Land-Registration-Using-Blockchain/blob/main/screenshots/LoginPage.jpg)
+![Login Page](LoginPage.jpg)
 
 ### 📋 Ownership Transfer Page
-![Ownership Transfer Page](https://github.com/likithashreeh10/Land-Registration-Using-Blockchain/blob/main/screenshots/OwnershipTransfer.jpg)
+![Ownership Transfer Page](OwnershipTransfer.jpg)
 
 ### 🔗 Smart Contract on Ropsten Testnet
-![Smart Contract](https://github.com/likithashreeh10/Land-Registration-Using-Blockchain/blob/main/screenshots/SmartContract.jpg)
+![Smart Contract](SmartContract.jpg)
 
 ### 🧾 Ownership Transfer Document
-![Ownership Document](https://github.com/likithashreeh10/Land-Registration-Using-Blockchain/blob/main/screenshots/OwnershipDocument.jpg)
+![Ownership Document](OwnershipDocument.jpg)
 
 
-👩‍💻 Author
-
-Likithashree H
-🎓 Computer Science & Engineering Student
-🔗 LinkedIn Profile
+## 👩‍💻 Author
+**Likithashree H**  
+🎓 Computer Science & Engineering Student  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/likithashree-h-75a8b8308/)
