@@ -1,8 +1,6 @@
-# Land-Registration-Using-Blockchain
+# 🏛️ Land Registration Using Blockchain
 A decentralized blockchain-based system for secure and transparent land registration using Ethereum, Solidity, and Flutter.
 
-
-# 🏛️ Land Registration Using Blockchain
 
 ## 📘 Overview
 The **Land Registration Using Blockchain** project is a decentralized web application (DApp) that leverages blockchain technology to ensure **secure, transparent, and tamper-proof property transactions**.  
