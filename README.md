@@ -96,17 +96,18 @@ Import test ETH from a faucet and start interacting with the DApp.
 ### 🏠 Homepage
 ![Homepage](Homepage.jpg)
 
-### 🔐 Login Page
-![Login Page](LoginPage.jpg)
+### 🔗 metamask_connection
+![metamask_connection](metamask_connection.jpg)
+
+### 🧾 Draw Land on Map
+![Maps](Maps.jpg)
 
 ### 📋 Ownership Transfer Page
 ![Ownership Transfer Page](OwnershipTransfer.jpg)
 
-### 🔗 Smart Contract on Ropsten Testnet
-![Smart Contract](SmartContract.jpg)
-
 ### 🧾 Ownership Transfer Document
 ![Ownership Document](OwnershipDocument.jpg)
+
 
 
 ## 👩‍💻 Author
